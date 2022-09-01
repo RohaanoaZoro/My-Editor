@@ -1,0 +1,10 @@
+span {
+  border-bottom: 2px solid rgb(255, 90, 90);
+}
+
+[contenteditable]:focus {
+  outline: 0px solid transparent;
+}
+
+#my-editor {
+}
